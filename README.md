@@ -1,2 +1,2 @@
 # 30.06.25
-proyecto para taller de prueva
+proyecto para taller de prueba
